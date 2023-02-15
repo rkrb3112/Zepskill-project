@@ -119,3 +119,14 @@ i{
     border-radius: 50px;
     box-shadow: 1px 9px 15px -5px;
 }
+
+.signIn {
+    width: 25%;
+    height: 5%;
+    border-radius: 25px;
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0);
+    box-shadow: -1px 9px 15px -5px #45454596;
+    transition: 0.3s;
+}
